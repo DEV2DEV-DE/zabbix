@@ -1,0 +1,9 @@
+table.json-table {
+    border-collapse: collapse;
+}
+table.json-table th,
+table.json-table td {
+  border-bottom: 1px solid #383838;
+  padding: 2px 4px;
+  text-align: left;
+}

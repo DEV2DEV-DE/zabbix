@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "id": "json_table",
+  "namespace": "JsonTable",
+  "type": "widget",
+  "name": "JSON Table",
+  "description": "Displays content of a JSON array as a HTML table",
+  "author": "DEV2DEV",
+  "actions": {
+    "widget.json_table.view": {
+      "class": "WidgetView"
+    }
+  },
+  "assets": {
+    "css": ["widget.css"]
+  }
+}
+
